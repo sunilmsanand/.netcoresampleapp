@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tYGEM7uzSqa8cmxZZLboeKw+JCyO8dPxsQsMuy7yIzmK3vCAzW4nYkhwyK4udbs17Wycp/KAtCxpCaGk6dqLFg==",
+  "dgSpecHash": "ggPQ+RlgQnNuagbo0/VpcFzPbVKpptUda3qoW908gum5JQQgNif/vzPJY6WX6uZaQO1svIqPEsu8VVrOkXh3Dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sunil\\Documents\\.Net App\\.Net App.csproj",
+  "projectFilePath": "C:\\Users\\sunil\\Documents\\.netcoresampleapp\\.Net App.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

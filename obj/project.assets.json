@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sunil\\Documents\\.Net App\\.Net App.csproj",
+      "projectUniqueName": "C:\\Users\\sunil\\Documents\\.netcoresampleapp\\.Net App.csproj",
       "projectName": ".Net App",
-      "projectPath": "C:\\Users\\sunil\\Documents\\.Net App\\.Net App.csproj",
+      "projectPath": "C:\\Users\\sunil\\Documents\\.netcoresampleapp\\.Net App.csproj",
       "packagesPath": "C:\\Users\\sunil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sunil\\Documents\\.Net App\\obj\\",
+      "outputPath": "C:\\Users\\sunil\\Documents\\.netcoresampleapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sunil\\AppData\\Roaming\\NuGet\\NuGet.Config"

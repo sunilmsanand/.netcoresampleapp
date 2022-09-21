@@ -24,3 +24,29 @@ C:\Users\sunil\Documents\.Net App\obj\Debug\net6.0\refint\.Net App.dll
 C:\Users\sunil\Documents\.Net App\obj\Debug\net6.0\.Net App.pdb
 C:\Users\sunil\Documents\.Net App\obj\Debug\net6.0\.Net App.genruntimeconfig.cache
 C:\Users\sunil\Documents\.Net App\obj\Debug\net6.0\ref\.Net App.dll
+C:\Users\sunil\Documents\.netcoresampleapp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sunil\Documents\.netcoresampleapp\bin\Debug\net6.0\appsettings.json
+C:\Users\sunil\Documents\.netcoresampleapp\bin\Debug\net6.0\.Net App.staticwebassets.runtime.json
+C:\Users\sunil\Documents\.netcoresampleapp\bin\Debug\net6.0\.Net App.exe
+C:\Users\sunil\Documents\.netcoresampleapp\bin\Debug\net6.0\.Net App.deps.json
+C:\Users\sunil\Documents\.netcoresampleapp\bin\Debug\net6.0\.Net App.runtimeconfig.json
+C:\Users\sunil\Documents\.netcoresampleapp\bin\Debug\net6.0\.Net App.dll
+C:\Users\sunil\Documents\.netcoresampleapp\bin\Debug\net6.0\.Net App.pdb
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\.Net App.csproj.AssemblyReference.cache
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\.Net App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\.Net App.AssemblyInfoInputs.cache
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\.Net App.AssemblyInfo.cs
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\.Net App.csproj.CoreCompileInputs.cache
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\.Net App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\.Net App.RazorAssemblyInfo.cache
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\.Net App.RazorAssemblyInfo.cs
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\scopedcss\bundle\.Net App.styles.css
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\scopedcss\projectbundle\.Net App.bundle.scp.css
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\.Net App.dll
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\refint\.Net App.dll
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\.Net App.pdb
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\.Net App.genruntimeconfig.cache
+C:\Users\sunil\Documents\.netcoresampleapp\obj\Debug\net6.0\ref\.Net App.dll
